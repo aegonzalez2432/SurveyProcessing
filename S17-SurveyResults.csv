@@ -1,0 +1,1001 @@
+Gender,Age Group,State of Residence,Product,Rating
+Male,25-34,MN,cell phone,3
+Male,55-64,IN,cell phone,4
+Male,35-44,MN,cell phone,5
+Male,35-44,AK,cell phone,4
+Male,65-74,NJ,USB drive,3
+Male,55-64,NH,toothpaste,3
+Male,35-44,HI,calculator,1
+Male,18-24,TX,toothpaste,1
+Female,25-34,WV,toothpaste,4
+Male,75+,MD,toothpaste,3
+Female,65-74,AL,calculator,1
+Male,55-64,KY,laptop,3
+Female,75+,IA,USB drive,1
+Male,65-74,RI,USB drive,2
+Female,18-24,WV,calculator,1
+Female,45-54,WI,cell phone,4
+Female,75+,CA,headphones,4
+Female,18-24,TN,cell phone,5
+Male,45-54,IA,calculator,4
+Male,45-54,TX,headphones,3
+Female,35-44,KY,USB drive,4
+Male,35-44,CT,calculator,1
+Female,25-34,OR,calculator,4
+Female,45-54,KS,laptop,1
+Male,65-74,WA,USB drive,1
+Male,55-64,MN,toothpaste,2
+Male,65-74,RI,toothpaste,1
+Male,18-24,HI,laptop,1
+Male,65-74,UT,toothpaste,5
+Female,25-34,LA,calculator,5
+Female,75+,AR,headphones,3
+Female,35-44,AZ,headphones,5
+Male,18-24,MN,USB drive,1
+Female,18-24,LA,USB drive,5
+Female,75+,HI,laptop,3
+Male,18-24,VT,headphones,2
+Male,25-34,MI,calculator,5
+Male,75+,LA,laptop,3
+Male,55-64,PA,laptop,5
+Male,45-54,FL,toothpaste,2
+Male,18-24,NM,calculator,4
+Male,55-64,NJ,laptop,2
+Female,25-34,ND,calculator,5
+Female,65-74,IL,toothpaste,1
+Male,55-64,OR,cell phone,2
+Female,45-54,VT,calculator,1
+Male,55-64,SD,toothpaste,4
+Female,75+,SC,laptop,2
+Male,35-44,MI,laptop,3
+Male,75+,LA,calculator,1
+Male,25-34,ME,cell phone,4
+Female,18-24,NE,cell phone,5
+Female,18-24,WY,headphones,4
+Male,25-34,MA,calculator,1
+Female,55-64,WI,USB drive,5
+Female,35-44,ND,calculator,1
+Female,75+,ME,cell phone,4
+Male,35-44,AR,headphones,5
+Male,25-34,VA,cell phone,1
+Female,65-74,CA,USB drive,3
+Male,18-24,NV,toothpaste,2
+Male,75+,FL,headphones,1
+Female,75+,SD,USB drive,4
+Male,25-34,OK,USB drive,4
+Male,75+,NV,calculator,3
+Male,35-44,NV,USB drive,1
+Male,45-54,TX,headphones,4
+Female,45-54,WI,laptop,4
+Male,45-54,AZ,calculator,4
+Male,35-44,WV,cell phone,2
+Female,25-34,DE,laptop,3
+Male,55-64,KS,calculator,2
+Male,55-64,ND,USB drive,4
+Female,45-54,AR,calculator,2
+Male,65-74,WY,USB drive,2
+Female,25-34,KS,cell phone,5
+Female,55-64,VA,headphones,2
+Male,18-24,MD,toothpaste,5
+Male,45-54,NH,calculator,3
+Female,18-24,NJ,cell phone,4
+Female,75+,MN,calculator,2
+Male,25-34,NE,toothpaste,5
+Male,35-44,NE,headphones,3
+Female,75+,NV,laptop,1
+Female,35-44,IL,toothpaste,4
+Male,45-54,KY,cell phone,5
+Female,35-44,IL,headphones,1
+Female,35-44,PA,calculator,3
+Male,45-54,MD,cell phone,3
+Female,18-24,HI,USB drive,5
+Male,75+,OR,toothpaste,5
+Female,55-64,CO,laptop,2
+Female,25-34,LA,headphones,5
+Male,45-54,TX,USB drive,2
+Male,25-34,AZ,headphones,5
+Male,18-24,ME,headphones,4
+Female,18-24,ID,laptop,4
+Male,75+,DE,calculator,2
+Male,45-54,WY,headphones,3
+Female,35-44,KS,headphones,4
+Female,55-64,PA,cell phone,2
+Female,25-34,ME,USB drive,4
+Female,25-34,WA,calculator,5
+Male,55-64,WV,calculator,5
+Male,55-64,OR,cell phone,1
+Female,55-64,ID,toothpaste,2
+Male,18-24,SD,headphones,1
+Male,45-54,MS,cell phone,2
+Female,45-54,TN,cell phone,2
+Male,55-64,RI,calculator,1
+Female,18-24,MN,cell phone,3
+Male,75+,SC,USB drive,1
+Male,45-54,MN,cell phone,5
+Female,65-74,LA,toothpaste,4
+Female,65-74,MI,toothpaste,1
+Female,55-64,NM,USB drive,4
+Male,45-54,LA,cell phone,4
+Male,25-34,TX,laptop,4
+Female,65-74,WA,calculator,3
+Male,18-24,OH,USB drive,4
+Female,75+,WI,headphones,2
+Female,75+,AZ,calculator,1
+Male,35-44,MD,headphones,2
+Male,35-44,DC,USB drive,3
+Female,35-44,OH,cell phone,1
+Female,55-64,HI,calculator,4
+Female,18-24,MS,calculator,2
+Male,35-44,VA,toothpaste,3
+Female,55-64,MS,toothpaste,2
+Female,45-54,UT,cell phone,3
+Male,18-24,NV,toothpaste,2
+Male,75+,NV,cell phone,5
+Male,25-34,CA,calculator,2
+Female,55-64,OR,calculator,3
+Male,55-64,HI,USB drive,5
+Female,55-64,FL,laptop,1
+Male,55-64,IN,laptop,1
+Male,25-34,AK,cell phone,5
+Female,75+,NJ,USB drive,5
+Female,45-54,MD,cell phone,5
+Male,45-54,NE,toothpaste,2
+Male,25-34,NV,cell phone,4
+Male,55-64,KS,calculator,1
+Female,25-34,RI,headphones,5
+Female,45-54,OR,USB drive,3
+Male,25-34,OH,toothpaste,4
+Male,45-54,MI,calculator,5
+Male,18-24,KS,toothpaste,5
+Female,65-74,PA,toothpaste,1
+Male,45-54,IL,laptop,4
+Female,35-44,VT,calculator,5
+Male,18-24,SC,cell phone,4
+Male,65-74,TN,headphones,4
+Male,65-74,WA,toothpaste,3
+Female,65-74,VA,cell phone,4
+Female,65-74,LA,toothpaste,2
+Female,75+,OR,calculator,2
+Female,65-74,OH,laptop,1
+Male,55-64,NJ,USB drive,4
+Female,65-74,OK,cell phone,5
+Male,18-24,IA,toothpaste,3
+Female,55-64,MD,USB drive,2
+Male,45-54,MN,USB drive,3
+Male,45-54,ME,toothpaste,5
+Male,18-24,AK,cell phone,5
+Male,35-44,IL,headphones,3
+Female,65-74,SC,laptop,4
+Male,65-74,DC,headphones,5
+Female,45-54,PA,cell phone,3
+Male,25-34,FL,headphones,2
+Male,65-74,RI,laptop,4
+Male,35-44,KS,headphones,5
+Female,45-54,CA,cell phone,3
+Male,75+,MS,cell phone,3
+Female,25-34,ID,toothpaste,2
+Female,35-44,NH,cell phone,5
+Female,65-74,MT,headphones,1
+Male,35-44,MY,calculator,1
+Female,18-24,MN,headphones,4
+Male,45-54,NM,calculator,1
+Female,45-54,AK,calculator,2
+Male,75+,PA,laptop,4
+Female,45-54,WI,toothpaste,2
+Male,35-44,MD,laptop,2
+Female,75+,WY,headphones,5
+Male,18-24,ID,headphones,4
+Male,18-24,CT,laptop,5
+Female,75+,CA,cell phone,1
+Female,65-74,MI,USB drive,1
+Female,55-64,VT,USB drive,4
+Female,45-54,CA,calculator,1
+Female,75+,NJ,headphones,5
+Male,75+,NJ,laptop,5
+Male,65-74,OH,laptop,1
+Male,65-74,CO,laptop,3
+Male,18-24,DC,calculator,4
+Male,18-24,DE,laptop,3
+Male,75+,TN,toothpaste,3
+Female,18-24,AL,USB drive,3
+Female,18-24,UT,toothpaste,1
+Male,45-54,ME,headphones,4
+Female,65-74,OR,toothpaste,3
+Male,18-24,MY,laptop,5
+Female,45-54,AL,headphones,2
+Female,75+,CA,cell phone,4
+Female,75+,VT,laptop,2
+Female,45-54,WI,toothpaste,4
+Male,45-54,MI,cell phone,2
+Male,45-54,MI,cell phone,3
+Female,25-34,NH,cell phone,4
+Female,25-34,MT,headphones,5
+Male,65-74,VA,laptop,2
+Male,65-74,RI,calculator,2
+Male,35-44,OR,headphones,1
+Female,65-74,AL,toothpaste,4
+Male,35-44,HI,calculator,4
+Male,45-54,NM,toothpaste,5
+Female,25-34,CA,USB drive,1
+Female,55-64,NM,cell phone,4
+Male,45-54,NH,USB drive,3
+Female,55-64,MA,calculator,3
+Male,45-54,TX,laptop,4
+Female,18-24,AR,laptop,2
+Female,65-74,WA,laptop,4
+Male,25-34,VT,laptop,5
+Female,25-34,MA,cell phone,4
+Female,18-24,MI,cell phone,4
+Female,65-74,DE,headphones,1
+Female,18-24,IL,toothpaste,4
+Female,75+,DC,toothpaste,4
+Male,65-74,TX,toothpaste,5
+Female,65-74,OH,laptop,3
+Male,45-54,RI,laptop,5
+Male,25-34,TN,USB drive,2
+Female,65-74,IL,toothpaste,2
+Male,18-24,TX,USB drive,1
+Female,25-34,KY,USB drive,4
+Male,25-34,HI,cell phone,4
+Male,75+,NV,laptop,2
+Female,25-34,NJ,cell phone,3
+Male,18-24,TX,toothpaste,2
+Female,45-54,ID,cell phone,2
+Male,45-54,TN,headphones,4
+Female,65-74,VT,laptop,2
+Male,18-24,ND,headphones,2
+Female,75+,KY,USB drive,2
+Female,18-24,HI,headphones,5
+Female,65-74,SC,USB drive,4
+Female,55-64,CT,USB drive,5
+Female,75+,KY,calculator,1
+Male,55-64,KY,USB drive,1
+Male,55-64,IA,laptop,4
+Male,35-44,RI,cell phone,2
+Male,18-24,OR,headphones,5
+Male,65-74,WV,laptop,4
+Male,18-24,NH,cell phone,2
+Female,55-64,GA,cell phone,2
+Male,55-64,TX,calculator,4
+Male,65-74,RI,headphones,4
+Male,45-54,ID,cell phone,5
+Female,55-64,TX,USB drive,2
+Female,65-74,MY,toothpaste,5
+Male,35-44,LA,headphones,2
+Male,55-64,SD,cell phone,2
+Female,35-44,NV,calculator,2
+Female,55-64,KS,USB drive,2
+Female,55-64,ID,laptop,2
+Female,25-34,NE,calculator,1
+Male,25-34,WI,cell phone,5
+Male,45-54,PA,toothpaste,4
+Male,75+,FL,laptop,4
+Female,25-34,ME,USB drive,5
+Male,55-64,AR,toothpaste,5
+Female,75+,LA,laptop,2
+Female,25-34,ID,calculator,4
+Male,45-54,IL,laptop,1
+Male,18-24,WY,toothpaste,2
+Male,25-34,OK,USB drive,2
+Male,75+,MT,headphones,2
+Male,25-34,OR,laptop,1
+Female,45-54,MI,cell phone,4
+Female,75+,WY,laptop,4
+Female,18-24,VT,laptop,5
+Male,18-24,OH,toothpaste,2
+Female,35-44,SD,laptop,2
+Female,35-44,ME,toothpaste,4
+Male,65-74,CO,calculator,3
+Male,55-64,VT,calculator,3
+Female,35-44,ID,USB drive,3
+Female,25-34,ME,toothpaste,1
+Male,25-34,IL,laptop,5
+Female,45-54,AK,laptop,5
+Male,65-74,MA,headphones,5
+Female,45-54,ID,USB drive,3
+Male,35-44,ND,laptop,4
+Male,35-44,VT,laptop,2
+Male,65-74,IA,headphones,4
+Male,45-54,OK,cell phone,1
+Female,55-64,IL,toothpaste,5
+Male,45-54,MY,calculator,1
+Female,45-54,AR,cell phone,3
+Male,18-24,MN,toothpaste,5
+Female,35-44,GA,USB drive,1
+Female,55-64,KY,toothpaste,4
+Male,35-44,CT,cell phone,3
+Male,75+,NH,headphones,5
+Male,18-24,DC,toothpaste,2
+Male,18-24,NM,toothpaste,2
+Female,25-34,WI,USB drive,2
+Female,35-44,NM,headphones,4
+Male,45-54,NE,toothpaste,5
+Male,45-54,IL,laptop,5
+Female,55-64,OK,calculator,1
+Male,35-44,MY,USB drive,3
+Male,75+,NE,USB drive,4
+Male,25-34,FL,headphones,5
+Male,55-64,TX,toothpaste,1
+Female,55-64,WA,headphones,2
+Female,75+,SC,USB drive,5
+Male,35-44,KS,cell phone,4
+Male,65-74,DE,headphones,1
+Male,45-54,NE,calculator,2
+Female,25-34,NE,laptop,1
+Female,25-34,AZ,headphones,3
+Male,75+,CA,headphones,1
+Female,55-64,DE,headphones,3
+Female,75+,AK,USB drive,2
+Male,25-34,VA,headphones,1
+Female,75+,DC,USB drive,1
+Male,25-34,PA,calculator,2
+Male,65-74,IN,headphones,1
+Male,65-74,HI,cell phone,3
+Male,35-44,DC,laptop,5
+Female,35-44,MT,laptop,2
+Female,25-34,KY,cell phone,5
+Male,55-64,MI,USB drive,1
+Male,25-34,ID,cell phone,5
+Female,75+,VA,cell phone,2
+Female,75+,ND,laptop,3
+Female,75+,SD,toothpaste,1
+Male,35-44,AZ,laptop,2
+Male,18-24,DC,headphones,1
+Female,65-74,MT,USB drive,4
+Female,35-44,NH,toothpaste,3
+Female,18-24,MA,laptop,1
+Male,55-64,ND,USB drive,4
+Female,55-64,IA,calculator,4
+Female,35-44,DC,headphones,5
+Male,35-44,MS,USB drive,1
+Male,35-44,WA,laptop,1
+Male,18-24,AK,laptop,1
+Female,45-54,TX,USB drive,2
+Female,35-44,KY,laptop,5
+Female,65-74,NE,USB drive,1
+Female,65-74,AZ,USB drive,5
+Female,25-34,OH,toothpaste,4
+Female,18-24,MN,toothpaste,1
+Male,18-24,NM,cell phone,2
+Male,75+,PA,USB drive,4
+Male,45-54,IL,calculator,4
+Male,45-54,IN,calculator,3
+Female,25-34,NV,laptop,3
+Female,75+,VT,calculator,3
+Male,25-34,SD,laptop,5
+Female,65-74,MD,cell phone,5
+Female,65-74,IL,headphones,1
+Male,45-54,MS,headphones,4
+Female,75+,KS,toothpaste,4
+Female,45-54,NV,toothpaste,5
+Male,75+,MI,laptop,1
+Female,65-74,HI,toothpaste,3
+Female,65-74,GA,USB drive,4
+Female,45-54,GA,toothpaste,2
+Male,35-44,MS,calculator,5
+Male,35-44,CA,calculator,4
+Male,35-44,TN,calculator,1
+Female,18-24,FL,toothpaste,5
+Male,35-44,AZ,USB drive,5
+Female,55-64,RI,USB drive,5
+Female,55-64,TN,laptop,4
+Male,55-64,SD,headphones,5
+Male,45-54,TN,USB drive,5
+Male,45-54,MD,laptop,4
+Male,75+,MN,USB drive,3
+Female,75+,MY,USB drive,5
+Male,45-54,NE,USB drive,3
+Male,75+,TX,laptop,3
+Female,18-24,FL,USB drive,5
+Male,25-34,OH,cell phone,5
+Male,45-54,TX,toothpaste,2
+Female,65-74,MA,cell phone,3
+Male,25-34,CO,laptop,1
+Male,45-54,WY,USB drive,1
+Male,25-34,MA,USB drive,1
+Male,55-64,MT,USB drive,5
+Female,35-44,IL,cell phone,4
+Female,75+,NH,cell phone,4
+Male,65-74,ME,cell phone,1
+Male,65-74,NE,calculator,4
+Female,75+,TX,USB drive,2
+Female,25-34,NJ,USB drive,5
+Female,45-54,TX,toothpaste,5
+Female,25-34,ID,headphones,1
+Female,55-64,FL,calculator,2
+Female,45-54,AL,toothpaste,2
+Female,35-44,SD,USB drive,1
+Male,55-64,DE,cell phone,5
+Male,18-24,MI,USB drive,5
+Male,35-44,AK,cell phone,2
+Male,75+,WI,laptop,5
+Male,18-24,OR,calculator,5
+Male,35-44,IA,USB drive,2
+Male,18-24,TX,calculator,4
+Male,18-24,AR,headphones,2
+Male,18-24,WV,USB drive,1
+Female,65-74,WY,calculator,2
+Female,18-24,CA,cell phone,2
+Male,25-34,NE,toothpaste,3
+Male,65-74,OK,cell phone,1
+Male,18-24,OK,laptop,5
+Male,45-54,VA,headphones,3
+Male,18-24,CT,USB drive,3
+Male,35-44,TN,toothpaste,3
+Female,65-74,UT,laptop,4
+Female,75+,CO,calculator,1
+Female,35-44,MT,headphones,1
+Female,35-44,MT,headphones,4
+Male,25-34,OH,USB drive,5
+Female,75+,UT,USB drive,5
+Female,45-54,NV,calculator,4
+Male,18-24,AL,headphones,5
+Male,18-24,TN,cell phone,5
+Male,55-64,MN,headphones,2
+Male,65-74,CT,cell phone,1
+Male,65-74,ME,USB drive,2
+Male,55-64,UT,cell phone,3
+Male,25-34,ID,laptop,5
+Female,75+,CO,calculator,2
+Female,18-24,IA,laptop,1
+Male,75+,OK,laptop,2
+Female,18-24,UT,calculator,1
+Male,45-54,ME,toothpaste,1
+Female,18-24,ND,toothpaste,4
+Male,18-24,PA,calculator,2
+Female,75+,WV,cell phone,4
+Female,18-24,CA,headphones,2
+Female,35-44,TX,toothpaste,1
+Female,45-54,TX,USB drive,3
+Male,25-34,OK,calculator,5
+Female,18-24,IL,toothpaste,4
+Female,35-44,MT,laptop,5
+Male,55-64,CA,headphones,3
+Female,75+,IN,toothpaste,2
+Female,35-44,CT,calculator,2
+Female,45-54,KY,headphones,4
+Female,45-54,GA,calculator,3
+Male,25-34,AR,USB drive,3
+Female,75+,DE,cell phone,1
+Male,35-44,MA,toothpaste,5
+Male,75+,MY,USB drive,1
+Male,65-74,AR,toothpaste,5
+Female,35-44,HI,USB drive,4
+Female,65-74,CO,calculator,5
+Male,65-74,OK,headphones,5
+Male,45-54,CA,cell phone,4
+Female,25-34,TX,USB drive,4
+Female,65-74,CO,calculator,3
+Female,45-54,PA,USB drive,1
+Male,75+,RI,USB drive,1
+Female,65-74,AK,USB drive,5
+Male,65-74,DE,calculator,2
+Female,65-74,ID,laptop,5
+Male,35-44,MT,calculator,4
+Male,55-64,MT,toothpaste,4
+Male,65-74,DC,toothpaste,3
+Male,75+,AR,toothpaste,3
+Male,55-64,MD,laptop,2
+Male,18-24,GA,headphones,3
+Female,65-74,MT,toothpaste,5
+Female,55-64,ND,cell phone,5
+Male,18-24,MI,USB drive,4
+Female,45-54,KS,headphones,1
+Male,35-44,SD,calculator,5
+Female,45-54,WI,headphones,5
+Female,18-24,MI,headphones,1
+Male,75+,OK,cell phone,1
+Female,35-44,OH,headphones,1
+Male,55-64,DE,calculator,5
+Female,25-34,IL,cell phone,1
+Male,18-24,MT,laptop,2
+Female,55-64,MT,USB drive,3
+Female,75+,UT,toothpaste,2
+Male,65-74,MA,laptop,3
+Male,75+,MD,headphones,1
+Female,25-34,OR,USB drive,1
+Male,35-44,WI,calculator,4
+Female,55-64,WI,USB drive,4
+Female,35-44,ME,headphones,5
+Female,45-54,MD,laptop,1
+Female,65-74,IN,calculator,1
+Female,45-54,GA,USB drive,4
+Male,65-74,AL,headphones,2
+Male,25-34,WV,laptop,3
+Female,25-34,ND,headphones,1
+Female,75+,LA,cell phone,1
+Male,25-34,SC,toothpaste,1
+Male,18-24,LA,calculator,5
+Male,35-44,OH,toothpaste,5
+Male,45-54,LA,cell phone,4
+Male,55-64,WV,toothpaste,5
+Male,65-74,DC,laptop,1
+Female,35-44,NJ,toothpaste,5
+Female,18-24,LA,laptop,4
+Female,25-34,KY,cell phone,3
+Male,35-44,CT,toothpaste,3
+Female,65-74,AL,headphones,4
+Male,65-74,WA,laptop,3
+Male,18-24,AZ,toothpaste,5
+Male,35-44,UT,calculator,2
+Female,25-34,PA,headphones,5
+Female,35-44,OR,headphones,1
+Male,45-54,DE,USB drive,4
+Male,18-24,DC,laptop,5
+Female,18-24,MY,laptop,3
+Female,75+,SC,cell phone,2
+Female,18-24,CA,USB drive,3
+Male,65-74,IA,calculator,3
+Female,45-54,KS,laptop,2
+Male,45-54,NE,cell phone,1
+Male,65-74,DE,headphones,3
+Female,75+,NJ,calculator,3
+Male,18-24,SD,cell phone,3
+Female,75+,MI,headphones,2
+Male,18-24,OH,USB drive,5
+Male,55-64,MY,headphones,2
+Male,65-74,NM,calculator,5
+Female,35-44,IN,cell phone,1
+Female,45-54,RI,USB drive,5
+Female,55-64,RI,laptop,4
+Female,65-74,SD,cell phone,5
+Female,65-74,VT,calculator,1
+Female,55-64,ME,cell phone,5
+Female,25-34,WI,toothpaste,5
+Female,18-24,AL,headphones,4
+Male,35-44,WV,cell phone,3
+Female,65-74,AR,cell phone,1
+Female,25-34,MS,headphones,4
+Male,18-24,CT,USB drive,2
+Female,35-44,CA,headphones,5
+Female,45-54,GA,calculator,2
+Male,55-64,IN,calculator,5
+Female,45-54,WA,cell phone,5
+Female,75+,NM,cell phone,4
+Female,65-74,FL,calculator,4
+Female,18-24,MI,toothpaste,4
+Female,55-64,LA,cell phone,1
+Female,45-54,PA,toothpaste,1
+Male,75+,OR,cell phone,5
+Male,25-34,CT,headphones,3
+Female,75+,MA,headphones,2
+Male,45-54,MN,headphones,3
+Female,75+,MT,headphones,2
+Male,35-44,KS,calculator,1
+Male,55-64,IA,laptop,3
+Male,18-24,AR,cell phone,2
+Female,35-44,VA,cell phone,3
+Female,55-64,ND,headphones,3
+Male,18-24,IN,headphones,1
+Male,18-24,CT,laptop,1
+Female,75+,VA,calculator,3
+Male,18-24,AZ,laptop,1
+Female,65-74,TN,laptop,5
+Female,18-24,IN,USB drive,1
+Female,45-54,AZ,toothpaste,3
+Female,45-54,OH,headphones,2
+Female,35-44,VA,toothpaste,2
+Male,35-44,DC,laptop,3
+Male,45-54,MT,USB drive,5
+Female,75+,CA,headphones,4
+Female,65-74,TN,laptop,3
+Female,25-34,ME,laptop,2
+Male,75+,ID,cell phone,2
+Male,35-44,WV,headphones,3
+Male,65-74,NE,headphones,4
+Male,18-24,VT,cell phone,2
+Female,75+,MI,USB drive,4
+Male,25-34,LA,laptop,1
+Male,55-64,HI,USB drive,3
+Female,65-74,TN,toothpaste,2
+Female,45-54,MN,toothpaste,4
+Male,18-24,OH,toothpaste,4
+Male,75+,MA,USB drive,2
+Female,35-44,SC,USB drive,3
+Male,55-64,OR,toothpaste,1
+Female,55-64,MD,calculator,5
+Female,45-54,GA,toothpaste,2
+Male,18-24,MI,calculator,5
+Female,35-44,VA,toothpaste,3
+Female,65-74,IL,cell phone,1
+Male,25-34,DE,USB drive,3
+Male,55-64,UT,laptop,3
+Female,75+,MS,calculator,3
+Female,18-24,UT,USB drive,1
+Male,18-24,LA,laptop,2
+Female,35-44,IL,calculator,4
+Male,25-34,OK,cell phone,3
+Male,25-34,IN,USB drive,3
+Male,18-24,SD,cell phone,1
+Female,55-64,MI,toothpaste,5
+Female,45-54,OK,calculator,5
+Male,75+,KS,USB drive,3
+Female,75+,CT,laptop,4
+Female,25-34,CT,headphones,1
+Male,45-54,UT,cell phone,4
+Male,25-34,HI,calculator,2
+Female,75+,FL,toothpaste,1
+Female,25-34,DC,laptop,2
+Female,55-64,PA,calculator,4
+Female,35-44,ND,calculator,2
+Male,65-74,OK,USB drive,4
+Female,55-64,AZ,calculator,5
+Male,75+,NH,toothpaste,2
+Male,35-44,SC,toothpaste,3
+Female,45-54,RI,cell phone,4
+Male,45-54,AR,cell phone,2
+Male,45-54,MA,calculator,2
+Female,35-44,NM,toothpaste,1
+Female,65-74,AK,cell phone,2
+Female,18-24,MN,calculator,1
+Male,45-54,IN,laptop,3
+Male,18-24,IA,laptop,3
+Female,65-74,ND,cell phone,5
+Female,25-34,LA,laptop,2
+Male,45-54,OR,cell phone,5
+Male,25-34,MN,headphones,4
+Male,55-64,TX,USB drive,3
+Female,35-44,IL,toothpaste,4
+Female,18-24,AZ,USB drive,2
+Male,65-74,ID,laptop,3
+Male,18-24,CO,headphones,3
+Male,25-34,NE,toothpaste,1
+Male,25-34,IA,USB drive,2
+Male,55-64,WA,toothpaste,3
+Female,25-34,OH,headphones,1
+Female,25-34,KY,toothpaste,3
+Male,45-54,SC,USB drive,5
+Male,55-64,FL,headphones,2
+Male,35-44,NJ,USB drive,2
+Female,75+,IL,calculator,3
+Male,25-34,WA,calculator,1
+Female,65-74,CA,toothpaste,2
+Female,65-74,ID,cell phone,1
+Male,45-54,IL,headphones,4
+Female,18-24,IL,laptop,5
+Female,35-44,VA,headphones,2
+Female,18-24,OH,USB drive,4
+Male,55-64,SD,cell phone,1
+Female,55-64,TN,USB drive,4
+Male,45-54,RI,toothpaste,2
+Female,18-24,ME,calculator,5
+Male,25-34,PA,laptop,5
+Female,45-54,FL,toothpaste,5
+Female,75+,MD,toothpaste,2
+Male,35-44,SC,USB drive,3
+Female,75+,HI,headphones,1
+Female,18-24,MA,calculator,3
+Female,45-54,TX,toothpaste,4
+Female,65-74,CT,toothpaste,5
+Male,18-24,FL,USB drive,5
+Male,45-54,GA,headphones,5
+Male,45-54,IN,toothpaste,3
+Male,35-44,PA,laptop,4
+Male,75+,PA,toothpaste,5
+Female,45-54,NJ,laptop,3
+Female,75+,UT,headphones,1
+Male,18-24,NH,cell phone,3
+Male,25-34,MI,headphones,2
+Female,55-64,PA,laptop,1
+Female,55-64,WY,USB drive,5
+Female,18-24,ND,laptop,4
+Female,25-34,AZ,headphones,2
+Male,35-44,NM,toothpaste,3
+Female,35-44,RI,cell phone,5
+Male,18-24,AZ,laptop,5
+Male,55-64,SC,cell phone,3
+Male,18-24,PA,USB drive,1
+Male,75+,VT,USB drive,1
+Female,75+,CA,toothpaste,3
+Female,65-74,NM,cell phone,4
+Female,25-34,MI,laptop,4
+Male,25-34,LA,toothpaste,2
+Male,25-34,MN,USB drive,3
+Male,65-74,MY,USB drive,4
+Male,55-64,KY,headphones,3
+Female,35-44,HI,calculator,3
+Male,25-34,MA,cell phone,5
+Male,45-54,TN,USB drive,2
+Male,75+,WA,headphones,1
+Male,35-44,MN,headphones,4
+Male,25-34,MY,calculator,1
+Male,45-54,HI,laptop,5
+Female,55-64,WV,cell phone,2
+Male,35-44,NM,USB drive,4
+Female,65-74,MT,cell phone,2
+Male,55-64,MS,calculator,2
+Male,55-64,NM,headphones,2
+Male,65-74,UT,cell phone,4
+Female,65-74,KS,headphones,5
+Female,18-24,TN,headphones,1
+Female,45-54,TN,headphones,2
+Male,55-64,HI,laptop,5
+Female,75+,MD,laptop,5
+Male,18-24,MA,toothpaste,4
+Female,65-74,KS,calculator,1
+Male,75+,NM,toothpaste,2
+Male,75+,IA,cell phone,1
+Female,35-44,WI,laptop,2
+Male,65-74,CT,USB drive,2
+Male,35-44,MA,USB drive,5
+Female,55-64,SD,headphones,4
+Male,18-24,CA,laptop,2
+Male,25-34,TN,cell phone,4
+Male,55-64,CA,headphones,5
+Male,25-34,FL,cell phone,4
+Female,25-34,MY,toothpaste,2
+Male,65-74,IL,headphones,1
+Male,35-44,KY,calculator,5
+Female,65-74,DE,toothpaste,2
+Male,18-24,ME,laptop,1
+Female,55-64,LA,headphones,1
+Male,55-64,AR,calculator,2
+Female,35-44,TX,laptop,4
+Female,25-34,IN,toothpaste,4
+Female,35-44,NH,cell phone,2
+Male,25-34,PA,headphones,5
+Female,75+,AZ,USB drive,1
+Female,45-54,NJ,calculator,2
+Male,45-54,MA,laptop,1
+Female,75+,MI,laptop,5
+Male,35-44,ID,calculator,4
+Female,45-54,MT,toothpaste,3
+Female,45-54,UT,laptop,1
+Male,55-64,TX,laptop,3
+Male,18-24,MY,toothpaste,2
+Male,75+,FL,cell phone,2
+Male,18-24,DC,USB drive,5
+Female,35-44,NM,laptop,4
+Female,75+,OH,calculator,2
+Female,75+,OH,toothpaste,2
+Male,25-34,MT,laptop,4
+Male,35-44,MY,calculator,1
+Female,18-24,SC,laptop,4
+Male,25-34,ND,laptop,1
+Female,65-74,WA,cell phone,4
+Male,65-74,WI,headphones,1
+Female,18-24,WY,calculator,4
+Female,45-54,WY,laptop,3
+Male,55-64,DC,headphones,5
+Female,65-74,TN,headphones,5
+Male,75+,SD,headphones,4
+Female,18-24,OR,headphones,3
+Female,45-54,NJ,laptop,2
+Male,55-64,OR,cell phone,4
+Male,35-44,TX,cell phone,5
+Male,45-54,NV,cell phone,2
+Female,25-34,AZ,headphones,3
+Female,65-74,MI,USB drive,4
+Male,45-54,MD,laptop,4
+Female,75+,AR,toothpaste,2
+Male,45-54,MD,cell phone,3
+Male,55-64,ME,toothpaste,2
+Female,55-64,DC,headphones,1
+Male,18-24,FL,laptop,1
+Female,25-34,WV,calculator,3
+Female,25-34,MA,headphones,2
+Female,25-34,AK,USB drive,3
+Female,18-24,UT,laptop,1
+Female,65-74,MT,cell phone,5
+Male,18-24,NH,calculator,5
+Female,65-74,FL,headphones,4
+Male,25-34,FL,calculator,1
+Male,55-64,CA,toothpaste,1
+Female,65-74,MY,toothpaste,4
+Female,18-24,DC,USB drive,2
+Male,25-34,MY,calculator,4
+Male,45-54,RI,USB drive,5
+Male,75+,AL,headphones,3
+Male,25-34,TN,calculator,2
+Male,55-64,IN,laptop,2
+Female,25-34,TN,toothpaste,2
+Male,65-74,NV,USB drive,4
+Female,45-54,KS,headphones,4
+Male,75+,IA,laptop,1
+Female,75+,HI,USB drive,1
+Male,65-74,GA,cell phone,3
+Female,35-44,CA,toothpaste,1
+Female,55-64,NH,toothpaste,3
+Female,75+,DE,headphones,3
+Female,45-54,WY,calculator,3
+Male,25-34,KY,headphones,5
+Female,25-34,IN,headphones,4
+Male,25-34,WV,USB drive,5
+Female,55-64,ND,headphones,4
+Female,25-34,KY,headphones,3
+Female,35-44,MS,laptop,5
+Male,65-74,PA,USB drive,5
+Male,75+,MD,USB drive,4
+Female,75+,CO,toothpaste,5
+Female,45-54,MY,cell phone,1
+Male,65-74,MS,headphones,2
+Female,35-44,TX,toothpaste,1
+Male,35-44,MI,headphones,5
+Female,75+,IL,cell phone,5
+Male,18-24,ND,headphones,5
+Male,25-34,SD,calculator,5
+Male,18-24,KY,toothpaste,2
+Male,75+,PA,USB drive,3
+Male,18-24,MS,toothpaste,5
+Female,75+,VA,calculator,3
+Male,18-24,SD,laptop,1
+Male,75+,TN,cell phone,4
+Female,45-54,MT,laptop,4
+Female,35-44,UT,cell phone,3
+Female,65-74,WV,laptop,2
+Male,55-64,NE,calculator,4
+Male,65-74,RI,USB drive,3
+Female,65-74,IL,USB drive,1
+Female,45-54,MT,cell phone,2
+Female,65-74,LA,USB drive,4
+Male,35-44,VA,toothpaste,4
+Male,45-54,CO,calculator,3
+Male,25-34,WA,toothpaste,1
+Male,65-74,IL,laptop,1
+Male,25-34,WV,laptop,1
+Male,75+,NE,laptop,4
+Male,55-64,AK,USB drive,2
+Male,45-54,KS,USB drive,5
+Male,45-54,MA,cell phone,5
+Female,25-34,OR,toothpaste,2
+Female,75+,HI,USB drive,3
+Female,25-34,MT,toothpaste,2
+Male,65-74,OR,USB drive,1
+Male,65-74,TN,USB drive,4
+Male,18-24,MS,headphones,3
+Male,65-74,HI,headphones,1
+Female,18-24,WA,USB drive,3
+Male,18-24,DC,USB drive,2
+Male,25-34,NE,cell phone,4
+Male,25-34,OK,toothpaste,1
+Male,35-44,NM,laptop,4
+Female,18-24,OK,USB drive,4
+Female,45-54,VT,laptop,2
+Female,35-44,RI,USB drive,5
+Female,45-54,RI,calculator,2
+Female,18-24,MI,laptop,2
+Male,45-54,FL,toothpaste,1
+Female,55-64,NV,headphones,4
+Male,75+,NJ,USB drive,1
+Male,45-54,MT,laptop,4
+Male,45-54,MI,toothpaste,1
+Female,65-74,IA,cell phone,1
+Female,35-44,OK,cell phone,2
+Female,75+,IN,cell phone,1
+Female,65-74,NJ,calculator,2
+Female,35-44,MA,USB drive,1
+Female,18-24,IN,calculator,1
+Female,18-24,NJ,toothpaste,3
+Female,75+,MN,calculator,5
+Male,25-34,OK,headphones,1
+Male,65-74,IN,calculator,5
+Male,25-34,DE,calculator,4
+Female,35-44,SD,cell phone,4
+Female,75+,PA,USB drive,2
+Female,65-74,MS,headphones,4
+Male,18-24,OH,headphones,2
+Male,18-24,HI,USB drive,1
+Female,35-44,IL,USB drive,3
+Male,55-64,WV,toothpaste,2
+Male,18-24,SC,headphones,1
+Male,65-74,NV,cell phone,4
+Female,18-24,KY,USB drive,5
+Male,18-24,WY,USB drive,3
+Male,75+,ID,headphones,1
+Male,55-64,MT,laptop,3
+Male,45-54,ME,cell phone,3
+Male,65-74,AZ,calculator,4
+Male,75+,UT,toothpaste,2
+Male,65-74,TX,USB drive,4
+Male,18-24,NM,laptop,2
+Male,75+,TN,toothpaste,4
+Female,55-64,SC,cell phone,5
+Female,35-44,MY,USB drive,3
+Female,75+,WA,calculator,1
+Female,18-24,DE,USB drive,1
+Male,75+,DE,calculator,1
+Female,25-34,MD,laptop,5
+Male,25-34,WI,headphones,1
+Female,25-34,DC,USB drive,2
+Female,18-24,MN,USB drive,2
+Female,65-74,WY,cell phone,2
+Female,75+,MN,calculator,5
+Female,65-74,SD,cell phone,3
+Male,18-24,MT,cell phone,3
+Male,18-24,WY,USB drive,3
+Male,45-54,VA,headphones,3
+Male,18-24,IA,headphones,2
+Male,55-64,UT,toothpaste,5
+Female,25-34,NE,toothpaste,2
+Female,35-44,MI,USB drive,3
+Female,65-74,KY,calculator,1
+Female,35-44,NJ,calculator,5
+Male,35-44,AL,headphones,3
+Female,45-54,DE,toothpaste,2
+Female,75+,WI,calculator,4
+Male,35-44,MD,headphones,1
+Female,18-24,VT,toothpaste,1
+Female,75+,NH,toothpaste,3
+Male,65-74,CT,cell phone,1
+Male,55-64,NV,calculator,4
+Male,65-74,CA,cell phone,5
+Female,35-44,DE,laptop,1
+Male,45-54,MI,USB drive,2
+Female,75+,OK,USB drive,1
+Female,75+,NJ,headphones,1
+Male,18-24,VA,calculator,2
+Male,35-44,PA,headphones,4
+Male,45-54,VA,cell phone,5
+Male,18-24,NH,calculator,1
+Male,35-44,ME,cell phone,3
+Male,75+,OR,headphones,1
+Female,55-64,MT,laptop,5
+Male,18-24,NE,headphones,2
+Female,55-64,OR,cell phone,3
+Female,35-44,CA,calculator,3
+Male,45-54,NM,calculator,2
+Male,25-34,NV,USB drive,5
+Male,55-64,MN,cell phone,5
+Female,18-24,VA,calculator,1
+Male,45-54,CO,cell phone,5
+Male,35-44,IL,toothpaste,4
+Female,75+,ND,USB drive,3
+Female,75+,AK,laptop,4
+Male,18-24,LA,cell phone,4
+Female,18-24,NH,USB drive,1
+Male,25-34,DC,USB drive,5
+Male,18-24,NE,USB drive,3
+Male,18-24,AZ,toothpaste,4
+Female,18-24,NJ,headphones,4
+Female,65-74,TN,calculator,1
+Female,45-54,NV,toothpaste,1
+Male,75+,ID,headphones,2
+Male,65-74,WV,laptop,3
+Male,55-64,OH,USB drive,2
+Male,25-34,MS,USB drive,5
+Female,75+,CO,USB drive,4
+Male,45-54,DC,toothpaste,5
+Female,65-74,CT,USB drive,5
+Female,75+,ME,cell phone,2
+Male,45-54,OH,cell phone,2
+Male,25-34,CO,USB drive,5
+Male,55-64,GA,cell phone,1
+Female,65-74,VA,toothpaste,1
+Female,45-54,CO,toothpaste,5
+Female,65-74,ID,cell phone,1
+Female,65-74,ME,headphones,1
+Male,75+,SD,toothpaste,1
+Male,55-64,MI,laptop,3
+Female,65-74,NM,headphones,3
+Male,45-54,VA,USB drive,2
+Female,18-24,NJ,cell phone,4
+Male,18-24,SC,calculator,1
+Female,75+,KY,cell phone,1
+Female,65-74,TN,laptop,5
+Female,35-44,UT,toothpaste,3
+Male,65-74,IL,toothpaste,2
+Female,35-44,MA,laptop,1
+Male,65-74,LA,cell phone,5
+Female,18-24,MD,USB drive,4
+Female,75+,KS,cell phone,2
+Male,35-44,NJ,headphones,1
+Male,45-54,AK,toothpaste,1
+Male,35-44,ND,USB drive,5
+Female,25-34,CO,toothpaste,1
+Female,65-74,CT,toothpaste,4
+Female,75+,ME,toothpaste,5
+Female,18-24,SC,cell phone,3
+Female,25-34,NJ,USB drive,2
+Male,55-64,KY,USB drive,2
+Male,55-64,IN,headphones,1
+Male,45-54,CT,calculator,5
+Male,55-64,LA,headphones,3
+Male,35-44,AK,calculator,3
+Female,65-74,MY,cell phone,1
+Female,45-54,NJ,headphones,3
+Female,45-54,WV,laptop,2
+Female,55-64,NJ,USB drive,1
+Female,25-34,SD,headphones,2
+Male,45-54,ID,cell phone,3
+Female,75+,AZ,headphones,1
+Female,35-44,UT,cell phone,1
